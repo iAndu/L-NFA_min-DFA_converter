@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1489774044 source:d:\google drive\facultate\anul i\lfa\project 2\main.cpp
+	<fstream>
+	<iostream>
+	<vector>
+	<cstring>
+	<unordered_set>
+	<queue>
+	<unordered_map>
+
